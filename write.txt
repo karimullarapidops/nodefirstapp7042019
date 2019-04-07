@@ -1,0 +1,7 @@
+Debugging in Chrome
+
+Before writing more complex code, let’s talk about debugging.
+
+All modern browsers and most other environments support “debugging” – a special UI in developer tools that makes finding and fixing errors much easier.
+
+We’ll be using Chrome here, because it’s probably the most feature-rich in this aspect.
